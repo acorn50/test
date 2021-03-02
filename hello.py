@@ -1,6 +1,6 @@
 print("hello,jenkins")
 print("start build")
-#print("building")
+print("building")
 #print("running shell,python")
 #print("success")
 #print("waiting for test")
